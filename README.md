@@ -1,5 +1,15 @@
-### Hi there 👋
 
+```
+class Me:
+  def __init__(self):
+    self.name="Fernando"
+    self.occupation="Computer Science Student @ UAH" 💻🏫
+    self.programming_languages_im_learning=["python🐍","c","c++","c#","js","r (forced)"]
+    self.fields_im_interested_in=["Cybersecurity🔒","Video game development🎮(+retro)","A.I🧠","Robotics🤖","etc"]
+    self.is_the_list_above_expanding=self.will_to_learn_more=True
+    self.contact="perez.holguin@gmail.com✉️"
+FerdinandoPH=Me()
+```
 <!--
 **FerdinandoPH/FerdinandoPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
