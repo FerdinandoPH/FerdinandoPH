@@ -3,6 +3,7 @@
 class Me:
   def __init__(self):
     self.name="Fernando"
+    self.nationality="ES🇪🇸"
     self.occupation="Computer Science Student @ UAH" 💻🏫
     self.programming_languages_im_learning=["python🐍","c","c++","c#","js","r (forced)"]
     self.fields_im_interested_in=["Cybersecurity🔒","Video game development🎮(+retro)","A.I🧠","Robotics🤖","etc"]
