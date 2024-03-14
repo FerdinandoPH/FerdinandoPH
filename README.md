@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 
 
 [![FerdinandoPH's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerdinandoPH)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinandoPH&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
